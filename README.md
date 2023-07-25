@@ -14,6 +14,7 @@ Repositório feito para armazenar os estudos em Docker do programa: Desenvolvime
 - **[Player with Docker](https://labs.play-with-docker.com/)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[VIM](https://vim.org)**
+- **[Google Colab](https://colab.research.google.com/drive/1RGqimcYpZIX_1HMhcYmHOi3N6s7xfgyL#scrollTo=LBmhawySJK8x)**
 
 
 ## ✏️ Comandos
