@@ -1,0 +1,18 @@
+
+docker pull alpine
+
+docker images
+
+docker ps 
+
+docker ps -a
+
+docker run -it alpine 
+
+docker run --name viniContainer -it -d alpine
+
+docker stop viniCointainer
+
+docker rm 🆔
+
+docker container exec -ti 🆔 bash
